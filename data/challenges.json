@@ -1,0 +1,15 @@
+[
+    {
+        "challenge_id": "CH1",
+        "lesson_id": 1,
+        "prompt": "Use print() to display your name.",
+        "expected_patterns": [
+            "print"
+        ],
+        "banned_patterns": [
+            "import",
+            "open("
+        ],
+        "expected_output": ""
+    }
+]

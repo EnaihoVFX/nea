@@ -1,0 +1,13 @@
+{
+  "username": "testuser",
+  "age_range": "8-12",
+  "current_lesson": 1,
+  "lessons_completed": [
+    1
+  ],
+  "challenges_completed": [
+    "CH1"
+  ],
+  "badges_earned": [],
+  "coins": 0
+}

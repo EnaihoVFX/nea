@@ -1,0 +1,15 @@
+{
+  "uid": "testuser_uid",
+  "children": {
+    "test-child": {
+      "nickname": "test-child",
+      "ageRange": "8-12",
+      "currentLesson": 1,
+      "lessonsCompleted": [],
+      "challengesCompleted": [],
+      "badgesEarned": [],
+      "coins": 100,
+      "points": 50
+    }
+  }
+}

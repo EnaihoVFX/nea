@@ -1,0 +1,23 @@
+[
+    {
+        "lesson_id": 1,
+        "title": "Printing Text",
+        "content": "The print() function shows text on the screen.",
+        "example_code": "print(\"Hello\")",
+        "challenge_id": "CH1"
+    },
+    {
+        "lesson_id": 2,
+        "title": "Variables",
+        "content": "Write a variable to store a number.",
+        "example_code": "print(\"Hello\")",
+        "challenge_id": "CH1"
+    },
+    {
+        "lesson_id": 3,
+        "title": "Lists",
+        "content": "Add an item to a list.",
+        "example_code": "print(\"Hello\")",
+        "challenge_id": "CH1"
+    }
+]
